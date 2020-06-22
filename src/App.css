@@ -47,6 +47,11 @@
   padding: 7px 0;
 }
 
+.pos-neg{
+  color: white;
+  font-weight: bold;
+}
+
 .Transcation-history {
   list-style: none;
   margin: 0;

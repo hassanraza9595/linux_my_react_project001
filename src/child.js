@@ -89,6 +89,8 @@ function Child() {
                         required />
                 </label>
                 <br />
+                <h4>(Postive ----> INCOME)<br />
+                (Negative ----> EXPENSE)</h4>
                 <input className="btn" type="submit" value="Add Transaction" />
             </form>
         </div>
